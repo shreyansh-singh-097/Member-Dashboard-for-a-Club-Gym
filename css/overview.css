@@ -208,7 +208,6 @@ body {
 }
 
 .sidebar-logo {
-    /* border: 1px solid white; */
     display: flex;
     align-items: center;
     gap: 20px;
